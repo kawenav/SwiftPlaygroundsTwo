@@ -21,8 +21,52 @@ if gradeA == true
     print("I really like this class")
 
 }else{
-    print("I'm not so sure about coding in Swift") 
+    print("I'm not so sure about coding in Swift")
 }
+//Part 5
+//Problem Set 1
+
+//Comparing variables using > or <
+var numberOne = 3
+var numberTwo = 6
+
+var compare = numberOne > numberTwo
+if compare == true {
+    print("Six is greater than three")
+}else{
+    print("Three will never be greater than six")
+}
+ 
+//Problem Set 2
+var badGrade = "I haven't been doing my work"
+if badGrade == "I haven't been doing my work" {
+    print("I might receive a bad grade")
+    }
+var gradeBad = "If I keep trying"
+if gradeBad == "If I keep trying" {
+    print("I might just pass the class")
+}
+
+//Problem Set 3
+var badGradeA = false
+if badGradeA == true {
+    print("I need to keep studying and practicing the material")
+}else{
+    print("I enjoy this class but I need to work harder")
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
